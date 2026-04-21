@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16d45653-4179-4cf5-8953-2dcfb0613880" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/projeto-completo-devops/.github/workflows/continuosintegration.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projeto-completo-devops/.github/workflows/continuosdelivery.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto-completo-devops/.github/workflows/continuosintegration.yml" beforeDir="false" afterPath="$PROJECT_DIR$/projeto-completo-devops/.github/workflows/continuosintegration.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "criacao-ci",
+    "git-widget-placeholder": "criacao-cd",
     "last_opened_file_path": "C:/Users/bruno/OneDrive/Documentos/GitHub/projeto-completo-devops"
   }
 }]]></component>
