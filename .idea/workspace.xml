@@ -5,13 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16d45653-4179-4cf5-8953-2dcfb0613880" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/projeto-completo-devops/.github/workflows/continuosdelivery.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto-completo-devops/.github/workflows/continuosintegration.yml" beforeDir="false" afterPath="$PROJECT_DIR$/projeto-completo-devops/.github/workflows/continuosintegration.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/projeto-completo-devops.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/projeto-devops.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,9 +40,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "criacao-cd",
-    "last_opened_file_path": "C:/Users/bruno/OneDrive/Documentos/GitHub/projeto-completo-devops"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/bruno/OneDrive/Documentos/GitHub/projeto-devops"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bruno\OneDrive\Documentos\GitHub\projeto-completo-devops" />
+      <recent name="C:\Users\bruno\OneDrive\Documentos\GitHub\projeto-completo-devops\test" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="ENV_FILES" value="" />
